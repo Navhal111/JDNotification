@@ -1,0 +1,6 @@
+module Pods_JdevSolutions_JdevSolutionsTests {
+  umbrella header "Pods-JdevSolutions-JdevSolutionsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
